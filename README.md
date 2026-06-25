@@ -1,2 +1,30 @@
-# medical-ime-dictionary-ja
-Japanese IME dictionary for obstetrics, fetal ultrasound and clinical laboratory medicine.
+# Medical IME Dictionary JA
+
+産婦人科・胎児超音波・臨床検査向けの日本語入力辞書プロジェクトです。
+
+## 目的
+
+医療従事者が日常業務で使う専門用語を、Google日本語入力などのIMEで効率よく入力できるようにすることを目的としています。
+
+## 対応予定
+
+- Google日本語入力
+- Microsoft IME
+- ATOK
+- Mozc
+
+## 収録予定分野
+
+- 産科
+- 胎児超音波
+- 胎児心エコー
+- 婦人科
+- 臨床検査
+- 超音波医学
+- 解剖
+- 略語
+- 英語表記
+
+## 注意
+
+この辞書は入力補助を目的としたものであり、医学的判断や診療行為を代替するものではありません。
